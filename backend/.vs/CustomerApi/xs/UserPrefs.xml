@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{93A79E97-F786-4275-90B4-2B7E0E9579A0}|Default">
+  <MonoDevelop.Ide.ItemProperties.CustomerApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomerApi/Controllers/CustomersController.cs">
+    <Files>
+      <File FileName="Data/Data.csproj" Line="1" Column="1" />
+      <File FileName="Data/Repositories/CustomerRepository.cs" Line="43" Column="46" />
+      <File FileName="CustomerApi/Controllers/CustomerController.cs" Line="72" Column="43" />
+      <File FileName="CustomerApi/Program.cs" Line="22" Column="77" />
+      <File FileName="Data/Repositories/ICustomerRepository.cs" Line="8" Column="45" />
+      <File FileName="CustomerApi/Properties/launchSettings.json" Line="16" Column="26" />
+      <File FileName="CustomerApi/appsettings.json" Line="9" Column="7" />
+      <File FileName="Data/CustomersDbContext.cs" Line="1" Column="1" />
+      <File FileName="Data/Models/Customer.cs" Line="1" Column="1" />
+      <File FileName="CustomerApi/UseCases/UpdateCustomerUseCase.cs" Line="16" Column="1" />
+      <File FileName="CustomerApi/UseCases/IUpdateCustomerUseCase.cs" Line="10" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CustomerApi" expanded="True">
+            <Node name="CustomerApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CustomersController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="UseCases" expanded="True" />
+            </Node>
+            <Node name="Data" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
